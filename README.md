@@ -10,7 +10,12 @@ Then...
 
 `app.js`
 ```
-require('node-trace')
+require('node-trace');
+
+or
+
+import node-trace
+
 ```
 
 That's it! now whenever you console it prints along with the function name and line number
