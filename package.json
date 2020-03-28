@@ -1,6 +1,6 @@
 {
   "name": "node-tracer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple nodejs logger for function name and line number by just importing the library",
   "main": "index.js",
   "scripts": {
