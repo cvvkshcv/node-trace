@@ -1,6 +1,6 @@
 # What is this?
 
-install the node-tracer package and require, the function name and line number will be consoled when each console.log happens!
+Very very light weight tracer for basic logging details, Install the node-tracer package and require, the function name and line number will be consoled when each console.log happens!
 
 # Installation
 

@@ -1,0 +1,27 @@
+{
+  "name": "node-tracer",
+  "version": "1.0.0",
+  "description": "Simple nodejs logger for function name and line number by just importing the library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cvvkshcv/node-trace.git"
+  },
+  "keywords": [
+    "node",
+    "node-trace",
+    "trace",
+    "tracer",
+    "node-tracr",
+    "tracr"
+  ],
+  "author": "Cv Vikash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cvvkshcv/node-trace/issues"
+  },
+  "homepage": "https://github.com/cvvkshcv/node-trace#readme"
+}
